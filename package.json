@@ -42,7 +42,7 @@
   },
   "homepage": "https://github.com/react-navigation/react-navigation-stack#readme",
   "dependencies": {
-    "@react-native-community/masked-view": "^0.1.1",
+    "@react-native-community/masked-view": "^0.1.1"
   },
   "devDependencies": {
     "@babel/core": "^7.5.0",
